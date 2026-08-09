@@ -4,6 +4,10 @@ A Next.js application for helping private-school teachers create classroom proje
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=flat-square&logo=typescript&logoColor=white)](package.json)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react&theme=light" alt="TypeScript, Next.js, and React" />
+</p>
+
 ## Overview
 
 Beyond Measure presents a teacher-focused project-funding experience. The application includes project discovery, project creation, account and authentication pages, impact tracking, funding information, FAQs, contact, privacy, and terms pages.
