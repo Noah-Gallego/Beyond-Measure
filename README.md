@@ -23,7 +23,14 @@ Beyond Measure presents a teacher-focused project-funding experience. The applic
 
 ## Tech stack
 
-Next.js 15, React 19, TypeScript, Tailwind CSS, Radix UI components, React Hook Form, Zod, Recharts, and supporting client-side utilities. Dependencies and scripts are defined in `package.json`; the repository uses the committed `pnpm-lock.yaml`.
+Next.js 15, React 19, TypeScript, and Tailwind CSS.
+
+### Important libraries
+
+- Radix UI components for accessible interface primitives
+- `react-hook-form` and `zod` for form state and validation
+- `recharts` for charts
+- `lucide-react` for icons
 
 ## Getting started
 
@@ -39,6 +46,13 @@ Open `http://localhost:3000`. The package also defines `pnpm run build` and `pnp
 ## Assets
 
 The application references repository-relative classroom imagery and Beyond Measure logos in `public/images/`. These are existing project assets, not generated README screenshots.
+
+## Preview
+
+Existing hosted application captures:
+
+- [Landing view](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-20%20at%203.43.01%E2%80%AFPM-Kl0CPFbTxOEeOdVilBRn3JBZxs2gbC.png)
+- [Project view](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-20%20at%203.43.18%E2%80%AFPM-1u7qObG9b8tAwJxXqccF7DWl6Dgm5j.png)
 
 ## Status and limitations
 
