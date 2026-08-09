@@ -49,10 +49,7 @@ The application references repository-relative classroom imagery and Beyond Meas
 
 ## Preview
 
-Existing hosted application captures:
-
-- [Landing view](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-20%20at%203.43.01%E2%80%AFPM-Kl0CPFbTxOEeOdVilBRn3JBZxs2gbC.png)
-- [Project view](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-20%20at%203.43.18%E2%80%AFPM-1u7qObG9b8tAwJxXqccF7DWl6Dgm5j.png)
+![Beyond Measure classroom hero](https://noah-readme-assets-v3.vercel.app/Beyond-Measure/asset__public__images__classroom-hero.png)
 
 ## Status and limitations
 
