@@ -21,17 +21,6 @@ Beyond Measure presents a teacher-focused project-funding experience. The applic
 - Responsive navigation, theme support, and reusable UI components
 - Committed visual assets in `public/images/`
 
-## Tech stack
-
-Next.js 15, React 19, TypeScript, and Tailwind CSS.
-
-### Important libraries
-
-- Radix UI components for accessible interface primitives
-- `react-hook-form` and `zod` for form state and validation
-- `recharts` for charts
-- `lucide-react` for icons
-
 ## Getting started
 
 Install dependencies with pnpm and start the development server:
