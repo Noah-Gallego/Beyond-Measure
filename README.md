@@ -43,3 +43,16 @@ The application references repository-relative classroom imagery and Beyond Meas
 ## Status and limitations
 
 The repository contains the application source and UI assets. No verified public deployment link or license file is present in this checkout; deployment and data-service behavior should be confirmed separately.
+
+> [!TIP]
+> Use the package-defined pnpm scripts for local inspection; keep any deployment-specific service configuration in local environment files rather than in the README or source tree.
+
+## Application flow
+
+```mermaid
+flowchart LR
+    A[Next.js routes and components] --> B[Teacher and project experiences]
+    B --> C[Reusable UI and theme support]
+    D[public/images assets] --> B
+    E[pnpm dev or build scripts] --> A
+```
